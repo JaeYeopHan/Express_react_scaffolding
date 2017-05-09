@@ -1,9 +1,11 @@
-# React-Express Scaffodling project
+# React-Express Scaffolding project
+Scaffolding project with Express, React.
 
 ## About
 * Express
 * React
 * Webpack2
+* YARN
 
   
 ## Installation
@@ -14,3 +16,5 @@ $ npm install
 ```
 
 you can check script in `package.json` file.
+
+Other scaffolding project is existed [Webpack2_tutorial_repository](https://github.com/JaeYeopHan/webpack2_tutorial)
